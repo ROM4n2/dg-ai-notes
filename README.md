@@ -56,6 +56,7 @@ skill 里还沉淀了作者踩过的坑与最佳实践（比如工具报错时�
 
 - 🎬 [使用 pi-agent 的三种姿势，它凭什么成为 OpenClaw 的底层框架](https://www.bilibili.com/video/BV1CuNG6pERs) 
 - 📖 [哦对了，我将 pi 源码写成了一本书……](https://www.bilibili.com/video/BV12WK666EhM) 
+- 🧩 [我将 pi-agent 源码蒸馏成 skill，小白也能轻松开发自己的智能体](https://www.bilibili.com/video/BV1Ey8s65EkZ) 
 
 ---
 
